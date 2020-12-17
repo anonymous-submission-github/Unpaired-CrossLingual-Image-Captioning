@@ -1,0 +1,8 @@
+*.pyc
+cider-master/data/coco-val.p
+coco-caption/pycocoevalcap/meteor/data/paraphrase-en.gz
+coco-caption/pycocoevalcap/spice/spice-1.0/coco/annotations/captions_train2014.json
+coco-caption/pycocoevalcap/spice/spice-1.0/coco/annotations/captions_val2014.json
+coco-caption/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0-models.jar
+coco-cn-cap-eval/evals/coco_caption/results/
+
