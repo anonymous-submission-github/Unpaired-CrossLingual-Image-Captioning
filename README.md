@@ -21,7 +21,7 @@ Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. [UNISON: Unpair
 ```
 @inproceedings{gao2022unison,
   title={UNISON: Unpaired Cross-Lingual Image Captioning},
-  author={Gao, Jiahui and Zhou, Yi and Yu, Philip LH and Gu, Jiuxiang},
+  author={Gao, Jiahui and Zhou, Yi and Yu, Philip LH and Joty, Shafiq and Gu, Jiuxiang},
   booktitle={AAAI},
   year={2022}
 }
