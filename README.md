@@ -25,11 +25,4 @@ Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. [UNISON: Unpair
   booktitle={AAAI},
   year={2022}
 }
-
-@inproceedings{gu2019unpaired,
-  title={Unpaired Image Captioning via Scene Graph Alignments},
-  author={Gu, Jiuxiang and Joty, Shafiq and Cai, Jianfei and Zhao, Handong and Yang, Xu and Wang, Gang},
-  booktitle={ICCV},
-  year={2019}
-}
 ```
