@@ -13,3 +13,6 @@ More details will be updated to README.md later.
 
 Thanks.
 
+# Citation
+If you find UNISON useful, please consider citing the following paper:
+Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. UNISON: Unpaired Cross-Lingual Image Captioning. AAAI-2022.
