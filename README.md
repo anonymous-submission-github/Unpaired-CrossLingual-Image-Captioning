@@ -18,7 +18,7 @@ If you find UNISON useful, please consider citing the following paper:
 
 Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. [UNISON: Unpaired Cross-Lingual Image Captioning](https://www.aaai.org/AAAI22Papers/AAAI-5395.GaoJ.pdf). AAAI-2022.
 
-@article{gao2022unison,
+```@article{gao2022unison,
   title={UNISON: Unpaired Cross-Lingual Image Captioning},
   author={Gao, Jiahui and Zhou, Yi and Yu, Philip LH and Gu, Jiuxiang},
   booktitle={AAAI},
@@ -38,3 +38,4 @@ Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. [UNISON: Unpair
   booktitle={ECCV},
   year={2018}
 }
+```
