@@ -32,11 +32,4 @@ Jiahui Gao, Zhou Yi, Philip LH Yu, Shafiq Joty, and Jiuxiang Gu. [UNISON: Unpair
   booktitle={ICCV},
   year={2019}
 }
-
-@inproceedings{gu2018unpaired,
-  title={Unpaired image captioning by language pivoting},
-  author={Gu, Jiuxiang and Joty, Shafiq and Cai, Jianfei and Wang, Gang},
-  booktitle={ECCV},
-  year={2018}
-}
 ```
