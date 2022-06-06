@@ -1,4 +1,4 @@
-# Unsupervised-CrossLingual-Image-Captioning
+# UNISON: Unpaired Cross-Lingual Image Captioning
 
 For testing our final model, please run
 ```python
